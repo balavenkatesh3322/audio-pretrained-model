@@ -5,6 +5,9 @@
 ## What is pre-trained Model?
 A pre-trained model is a model created by some one else to solve a similar problem. Instead of building a model from scratch to solve a similar problem, we can use the model trained on other problem as a starting point. A pre-trained model may not be 100% accurate in your application.
 
+## Other Pre-trained Models
+* [NLP Pre-trained Models](https://github.com/balavenkatesh3322/NLP-pretrained-model).
+* [Computer Vision Pre-trained Models](https://github.com/balavenkatesh3322/CV-pretrained-model)
 
 ### Framework
 
